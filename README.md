@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/fnm04-sh/woa-op7/blob/main/op7.png" width="450" alt="Windows 11 running on hotdog/guacamole">
+<img align="right" src="https://github.com/fnm04-sh/woa-milton/blob/main/Picsart_24-11-20_15-22-58-443.png" width="450" alt="Windows 11 running on bbk microwave">
 
 # Running Windows on BBK Microwave
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woahelperchat)
